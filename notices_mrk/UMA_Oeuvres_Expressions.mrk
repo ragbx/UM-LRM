@@ -1,4 +1,4 @@
-=LDR  04287nx  a2200565   4500
+=LDR  04287nx  f2200565   45  
 =001  UMLRM0001
 =033  //$ahttps://data.bnf.fr/ark:/12148/cb11943761j$2data.bnf.fr
 =033  //$ahttps://www.wikidata.org/wiki/Q151895$2Wikidata
@@ -45,7 +45,7 @@
 =810  //$a Registre des visas et classification : https://www.cnc.fr/professionnels/visas-et-classification/31210 (2020-12-28)
 =810  //$a IMDB (Internet movie database) : https://www.imdb.com/title/tt0013442/?ref_=nv_sr_srsg_0 (2020-12-28)
 
-=LDR  01357nx  a2200253   4500
+=LDR  01357nx  f2200253   45  
 =001  UMLRM0002
 =100  //$a20220924afrey0103    ba0
 =101  1/$afre$cger
@@ -66,7 +66,7 @@
 =810  //$aNosferatu / réalisation Friedrich W. Murnau ; d’après le roman "Dracula" de Bram Stoker ; scénario et adaptation Henrik Galeen ; avec Max Schreck, Greta Schroeder, Gustav von Wangenheim... [et autres]. - [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2012]. - [Image animée : (video]
 =810  //$aWikipédia : https://fr.wikipedia.org/wiki/Nosferatu_le_vampire (2020-12-28)$bVersion restaurée
 
-=LDR  05455cx  a2200637   4500
+=LDR  05455cx  h2200637   45  
 =001  UMLRM0004
 =005  20220905######.D
 =033  //$ahttp://ark.bnf.fr/ark:/12148/cb12312986p$2BnF
@@ -119,7 +119,7 @@
 =810  //$aVampirisme.com : https://www.vampirisme.com/livre/dracula-de-bram-stoker/ (2022-09-18)$bRésumé
 =810  //$aData.bnf.fr - https://data.bnf.fr/12312986/bram_stoker_dracula/
 
-=LDR  01331cx  a2200253   4500
+=LDR  01331cx  h2200253   45  
 =001  UMLRM0005
 =005  20220719######.D
 =100  //$a20220713afrey50      ba0
@@ -140,7 +140,7 @@
 =801  /0$aFR$bFR-751045101$c20220719
 =810  //$aDracula / Bram Stoker. – London ; Sidney ; Auckland : Pan books, 1992. – [Texte noté : sans médiation] . – ISBN 0-330-32856-5
 
-=LDR  04782cx  a2200517   4500
+=LDR  04782cx  f2200517   45  
 =001  UMLRM0007
 =005  20220721135821
 =033  //$ahttps://www.wikidata.org/wiki/Q160259$2Wikidata
@@ -183,7 +183,7 @@
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-09-13)
 =810  //$aData.bnf.fr - https://data.bnf.fr/ark:/12148/cb145775185
 
-=LDR  00857cx  a2200217   4500
+=LDR  00857cx  f2200217   45  
 =001  UMLRM0008
 =005  20220725112526
 =100  //$a20220721afrey50      ba0
@@ -201,7 +201,7 @@
 =801  /0$aFR$b751043001$c20220725
 =810  //$aNosferatu fantôme de la nuit / un film de Werner Herzog ; Isabelle Adjani, Klaus Kinski, [Bruno Ganz... [et autres, acteurs ; musique de Florian Fricke, Popol Vuh]. - [Neuilly-sur-Seine] : Gaumont vidéo, [DL 2010]. – [Images animées : vidéo]
 
-=LDR  01239cx  a2200277   4500
+=LDR  01239cx  h2200277   45  
 =001  UMLRM0010
 =005  20220927######.D
 =100  //$a20220927afrey50      ba0
@@ -224,7 +224,7 @@
 =801  /0$aFR$bFR-751052119$c20220927
 =810  //$a"Nosferatu le vampire" / Paola Palma, Dimitri Vezyroglou. – Neuilly : Atlande, DL 2021. – [Texte noté : sans médiation]. – ISBN 978-2-35030-689-6
 
-=LDR  00692cx  a2200193   4500
+=LDR  00692cx  h2200193   45  
 =001  UMLRM0011
 =005  20220927######.D
 =100  //$a20220927afrey50      ba0
@@ -240,7 +240,7 @@
 =801  /0$aFR$bFR-751052119$c20220927
 =810  //$a"Nosferatu le vampire" / Paola Palma, Dimitri Vezyroglou. – Neuilly : Atlande, DL 2021. – [Texte noté : sans médiation]. – ISBN 978-2-35030-689-6
 
-=LDR  01411cx  a2200301   4500
+=LDR  01411cx  f2200301   45  
 =001  UMLRM0013
 =005  20220712.......D
 =100  //$a20060703afrey50      ba0
@@ -248,7 +248,7 @@
 =102  //$aFR
 =104  //$ad2005    
 =125  0/$am
-=140  //$ami$bprosp$2BnF-FonctTexMix
+=140  //$ami$bprogr$2BnF-FonctIco
 =145  0/$ab$bxb2e  
 =145  0/$ai
 =147  0/$ah
@@ -265,7 +265,7 @@
 =801  /0$aFR$bFR-751131015$c20220920
 =810  //$a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
 
-=LDR  01036cx  a2200229   4500
+=LDR  01036cx  f2200229   45  
 =001  UMLRM0014
 =005  20220712.......D
 =100  //$a20060703afrey50      ba0
@@ -284,7 +284,7 @@
 =801  /0$aFR$bFR-751131015$c20220920
 =810  //$a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
 
-=LDR  01299cx  a2200253   4500
+=LDR  01299cx  h2200253   45  
 =001  UMLRM0020
 =005  20220905######.D
 =100  //$a20220826afrey50      ba0
@@ -305,7 +305,7 @@
 =810  //$aDracula / Bram Stoker ; traduit de l'anglais par Lucienne Molitor ; introduction de Tony Faivre. – Verviers : Gérard et Cie, 1963. – [Texte noté : sans médiation]
 =810  //$aLe visage vert : littérature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07)$bInformation sur la version
 
-=LDR  02040nx  a2200337   4500
+=LDR  02040nx  h2200337   45  
 =001  UMLRM0031
 =100  //$a20221024afrey50      ba0
 =101  0/$afre 
@@ -333,7 +333,7 @@
 =801  /0$aFR$bFR-751131010$c20221005$gRDA-FR
 =810  //$aDracula / Bram Stoker ; traduction de Lucienne Molitor ; choix des extraits et appareil pédagogique établi par Nadia Bruneel-Ziane,... ; lexique établi par Michèle Sendre. – [Paris] : Magnard, impr. 2014. – [Texte noté : sans médiation]. – ISBN 978-2-210-74066-2
 
-=LDR  01077nx  a2200229   4500
+=LDR  01077nx  h2200229   45  
 =001  UMLRM0032
 =100  //$a20221024afrey50      ba0
 =101  2/$afre$ceng
@@ -352,7 +352,7 @@
 =801  /0$aFR$bFR-751131010$c20221024$gRDA-FR
 =810  //$aDracula / Bram Stoker ; traduction de Lucienne Molitor ; choix des extraits et appareil pédagogique établi par Nadia Bruneel-Ziane,... ; lexique établi par Michèle Sendre. – [Paris] : Magnard, impr. 2014. – [Texte noté : sans médiation]. – ISBN 978-2-210-74066-2
 
-=LDR  02567nx  a2200373   4500
+=LDR  02567nx  h2200373   45  
 =001  UMLRM0034
 =100  //$a20221031afrey50      ba0
 =101  0/$aeng
@@ -383,7 +383,7 @@
 =810  //$aBritish Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359
 =810  //$aDeakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31)$bNature du contenu
 
-=LDR  01062nx  a2200229   4500
+=LDR  01062nx  h2200229   45  
 =001  UMLRM0035
 =100  //$a20221031afrey50      ba0
 =101  1/$afre$ceng
@@ -402,7 +402,7 @@
 =801  /0$aFR$bFR-751052119$c20221031
 =810  //$a Dracula : [version abrégée] / d'après Bram Stoker ; illustré par Tudor Humphries ; [traduit par Michèle Jouve]. – Paris ; Bruxelles ; Montréal [etc.] : Sélection du "Reader's digest",1998. – [Texte noté. Image fixe : sans médiation]. – ISBN 2-7098-0973-7
 
-=LDR  01935nx  a2200349   4500
+=LDR  01935nx  h2200349   45  
 =001  UMLRM0037
 =100  //$a20221005afrey50      ba0
 =101  0/$afre 
@@ -431,7 +431,7 @@
 =810  //$aDracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2004. – [Texte noté : sans médiation]. – ISBN 2-08-072188-7
 =810  //$aSudoc : https://www.sudoc.fr/078705177 (2022-10-05)$bRésumé
 
-=LDR  01128nx  a2200241   4500
+=LDR  01128nx  h2200241   45  
 =001  UMLRM0038
 =100  //$a20221005afrey50      ba0
 =101  2/$afre$ceng
@@ -451,7 +451,7 @@
 =801  /0$aFR$bFR-751131010$c20221005
 =810  //$aDracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2006. – [Texte noté : sans médiation]. – ISBN 2-08-072306-5
 
-=LDR  01110nx  a2200217   4500
+=LDR  01110nx  h2200217   45  
 =001  UMLRM0041
 =100  //$a20220809afrey0103ba0
 =101  1/$afre$cger
@@ -469,7 +469,7 @@
 =810  //$aDracula] / Bram Stoker ; traduit de l'anglais par Jacques Sirgent. – Nouvelle traduction. – Rosières-en-Haye : le Camion blanc, impr. 2010. – [Texte noté : sans médiation]. – ISBN 978-2-35779-055-1
 =810  //$aDracula : traduction intégrale / Bram Stoker ; traduit de l'anglais par Jacques Sirgent. – Paris : J'ai lu, impr. 2012. – [Texte noté : sans médiation]. – ISBN 978-2-290-05740-7
 
-=LDR  01150nx  a2200241   4500
+=LDR  01150nx  h2200241   45  
 =001  UMLRM0047
 =100  //$a20221005afrey50      ba0
 =101  2/$afre$ceng
@@ -489,7 +489,7 @@
 =801  /0$aFR$bFR-751131010$c20221005
 =810  //$aDracula / Bram Stoker ; traduction de Jacques Finné ; présentation, notes, choix des extraits, cahier photos et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2017. – [Texte noté : sans médiation]. – ISBN 978-2-08-140438-0
 
-=LDR  01514cx  a2200253   4500
+=LDR  01514cx  h2200253   45  
 =001  UMLRM0050
 =005  20220930######.D
 =100  //$a20220930afrey50      ba0
@@ -510,7 +510,7 @@
 =801  /0$aFR$bFR-751052119$c20220930
 =810  //$aDracula [Texte imprimé] / Bram Stoker ; traduit de l'anglais par Jacques Finné. – Paris : Paris : Librairie des Champs-Élysées, 1979. – [Texte noté : sans médiation]. – ISBN 2-7024-0900-8
 
-=LDR  01137cx  a2200253   4500
+=LDR  01137cx  h2200253   45  
 =001  UMLRM0053
 =005  20220920######.D
 =100  //$a20220826afrey50      ba0
@@ -531,7 +531,7 @@
 =801  /0$aFR$bFR-141186101$c20220920$hFRBNF44486284000000X
 =810  //$aDracula / Bram Stoker ; traduit de l'anglais par Josette Chicheportiche. – Texte abrégé. – Vanves : le Livre de poche jeunesse, DL 2015]. – [Texte noté : sans médiation] . – ISBN 978-2-01-181029-8
 
-=LDR  01593nx  a2200265   4500
+=LDR  01593nx  h2200265   45  
 =001  UMLRM0056
 =100  //$a20221003afrey50      ba0
 =101  1/$afre$ceng
@@ -553,7 +553,7 @@
 =810  //$aDracula : l'homme de la nuit / Brahm Stoker ; traduit de l'anglais par Ève et Lucie Paul-Margueritte. – Paris : l'Édition française illustrée, 1920. – [Texte noté : sans médiation]
 =810  //$aLe visage vert : littérature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07)$bInformation sur la version
 
-=LDR  01500nx  a2200253   4500
+=LDR  01500nx  h2200253   45  
 =001  UMLRM0059
 =100  //$a20221007afrey50      ba0
 =101  1/$afre$ceng
@@ -574,7 +574,7 @@
 =810  //$aDracula, l'homme de la nuit : roman traduit par Ève et Lucie Paul-Margueritte et illustré de nombreuses photographies du film "Dracula" / Brahm Stoker. – Paris : Éditions J. Tallandier, 1932. – [Texte noté. Image fixe : sans médiation]:
 =810  //$aLe visage vert : littérature fantastique : http://www.levisagevert.com/bibliographie-auteurs/auteurs-s/auteurs-s/s0007.html (2022-10-07)$bInformation sur la version
 
-=LDR  00825cx  a2200217   4500
+=LDR  00825cx  h2200217   45  
 =001  UMLRM0065
 =005  20220929######.D
 =100  //$a20220929afrey50      ba0
@@ -592,7 +592,7 @@
 =801  /0$aFR$bFR-751052119$c20220929
 =810  //$aDrácula / Bram Stoker. – Rungis : Maxtor, DL 2017. – [Texte noté : sans médiation]. – ISBN 979-10-208-0506-5
 
-=LDR  01270nx  a2200241   4500
+=LDR  01270nx  h2200241   45  
 =001  UMLRM0068
 =100  //$a20220819afrey50      ba0
 =101  1/$afre$ceng
@@ -612,7 +612,7 @@
 =810  //$aDracula / Bram Stoker ; traduit de l'anglais par Lucienne Molitor ; abrégé par Boris Moissard. – Paris : l'École des loisirs, DL 2019. – [Texte noté : sans médiation]. – ISBN 978-2-211-30470-2
 =810  //$aL’école des loisirs : Dracula | L’école des loisirs, Maison d’Édition Jeunesse (ecoledesloisirs.fr) (2022-11-02)$bDate de l’expression
 
-=LDR  01202cx  a2200301   4500
+=LDR  01202cx  h2200301   45  
 =001  UMLRM0070
 =005  20220808######.D
 =100  //$a20220808afrey50      ba0
@@ -637,7 +637,7 @@
 =801  /0$aFR$b FR-751045101$c20220808
 =810  //$aBram Stoker : a biography of the author of "Dracula" / Barbara Belford. – London : Weidenfeld and Nicolson, 1996. – [Texte noté : sans médiation]. – ISBN 0-297-81331-5
 
-=LDR  00748cx  a2200217   4500
+=LDR  00748cx  h2200217   45  
 =001  UMLRM0071
 =005  20220808######.D
 =100  //$a20220808afrey50      ba0
@@ -655,7 +655,7 @@
 =801  /0$aFR$b FR-751045101$c20220808
 =810  //$aBram Stoker : a biography of the author of "Dracula" / Barbara Belford. – London : Weidenfeld and Nicolson, 1996. – [Texte noté : sans médiation]. – ISBN 0-297-81331-5
 
-=LDR  02257cx  a2200373   4500
+=LDR  02257cx  h2200373   45  
 =001  UMLRM0075
 =005  20221004######.D
 =035  //$aQ20726020$2WIKIDATA$d20221005
@@ -686,7 +686,7 @@
 =810  //$aWikipedia : https://en.wikipedia.org/wiki/Dracula%27s_Guest
 =810  //$aLC Name Authority File (LCNAF) : https://lccn.loc.gov/no2017152183 (2022-10-04)$bHistorique de l’œuvre
 
-=LDR  01231cx  a2200241   4500
+=LDR  01231cx  h2200241   45  
 =001  UMLRM0076
 =005  20221030######.D
 =100  //$a20220905afrey50      ba0
@@ -706,7 +706,7 @@
 =810  //$aBnF, catalogue général : http://ark.bnf.fr/ark:/12148/cb35544517t (2022-10-30)$bDate de première publication
 =810  //$aDracula [Texte imprimé] ; suivi de L'invité de Dracula / Bram Stoker ; traduction de Jacques Finné ; présentation et commentaires de Claude Aziza. – Paris : Pocket, impr. 2011. – [Texte noté : sans médiation] . – ISBN 978-2-266-21954-9
 
-=LDR  04652cx  a2200541   4500
+=LDR  04652cx  f2200541   45  
 =001  UMLRM0078
 =005  20220705######.D
 =052  //$a0000-0000-75FE-0000-H-0000-0000-N
@@ -751,7 +751,7 @@
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0103874/ (2022-11-03)$bDates et durée
 =810  //$aBram Stoker's Dracula : a Francis Ford Coppola film / Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]. – Tokyo : Sony pictures entertainment [éditeur]$d 1993]. – [Image animée : vidéo].
 
-=LDR  00947cx  a2200241   4500
+=LDR  00947cx  f2200241   45  
 =001  UMLRM0079
 =005  20220721######.D
 =100  //$a20220721afrey50      ba0
@@ -771,7 +771,7 @@
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0103874/ (2022-11-03)$bTechniques d’enregistrement
 =810  //$aBram Stoker's Dracula : a Francis Ford Coppola film / Gary Oldman, Winona Ryder, Anthony Hopkins... [et autres], [acteurs]. – Tokyo : Sony pictures entertainment [éditeur]$d 1993]. – [Image animée : vidéo]
 
-=LDR  01635cx  a2200289   4500
+=LDR  01635cx  f2200289   45  
 =001  UMLRM0081
 =005  20220926
 =100  //$a20220926afrey50      ba0 
@@ -795,7 +795,7 @@
 =801  /0$aFR$b FR-751045101$c20220926
 =810  //$a "Dracula" [Texte imprimé] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirigé par Gilles Menegaldo et Dominique Sipière. - Paris : Ellipses, impr. 2005. [Texte noté : sans médiation]- ISBN 2-7298-2533-9
 
-=LDR  00759cx  a2200193   4500
+=LDR  00759cx  f2200193   45  
 =001  UMLRM0082
 =005  20220926
 =100  //$a20220926afrey50      ba0
@@ -811,7 +811,7 @@
 =801  /0$aFR$bFR-751045101$c20220926
 =810  //$a. "Dracula" [Texte imprimé] : l'oeuvre de Bram Stoker et le film de Francis F. Coppola / ouvrage dirigé par Gilles Menegaldo et Dominique Sipière. – Paris : Ellipses, 2005.– [Texte noté : sans médiation]. – ISBN 2-7298-2533-9
 
-=LDR  01200cx  a2200301   4500
+=LDR  01200cx  h2200301   45  
 =001  UMLRM0084
 =005  20220908
 =100  //$a20220908afrey50      ba0 
@@ -836,7 +836,7 @@
 =801  /0$aFR$b FR-751045101$c20220908
 =810  //$aDracula  / Matei Cazacu. – Paris : Tallandier, 2011. – [Texte noté : sans médiation]. – ISBN 978-2-84734-801-9
 
-=LDR  00633cx  a2200205   4500
+=LDR  00633cx  h2200205   45  
 =001  UMLRM0085
 =005  20220908
 =100  //$a20220908afrey50      ba0 
@@ -853,7 +853,7 @@
 =801  /0$aFR$bFR-751045101$c20220908
 =810  //$aDracula  / Matei Cazacu. – Paris : Tallandier, 2011. – [Texte noté : sans médiation]. – ISBN 978-2-84734-801-9
 
-=LDR  01710cx  a2200337   4500
+=LDR  01710cx  h2200337   45  
 =001  UMLRM0087
 =005  20220809
 =100  //$a20220809afrey50      ba0
@@ -862,7 +862,7 @@
 =104  //$ad2005     
 =125  02$am 
 =140  //$ate$betdoc$2BnF-FonctTexMix
-=140  //$ate$bv$2UM/B105pos4
+=140  //$ate$bv$2UM/B105pos4-7
 =145  0/$ai
 =145  0/$ab1$bxb2e  
 =147  0/$ah
@@ -881,7 +881,7 @@
 =801  /0$aFR$b FR-751045101$c20220809
 =810  //$aLe vampire au fil des siècles : enquête autour d'un mythe / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. – [Texte noté : sans médiation]
 
-=LDR  00677cx  a2200193   4500
+=LDR  00677cx  h2200193   45  
 =001  UMLRM0088
 =005  20220809
 =100  //$a20220809afrey50      ba0
@@ -897,7 +897,7 @@
 =801  /0$aFR$b FR-751045101$c20220809
 =810  //$a Le vampire au fil des siècles : enquête autour d'un / Estelle Valls de Gomis. - Coudray-Macouard : Cheminements, DL 2005. – [Texte noté : sans médiation]
 
-=LDR  01989cx  a2200373   4500
+=LDR  01989cx  f2200373   45  
 =001  UMLRM0090
 =005  20220923112245.D
 =100  //$a20220923afrey50      ba0
@@ -928,7 +928,7 @@
 =801  /0$aFR$bFR-751043001$c20220923
 =810  //$ajeuxvideos.com - https://www.jeuxvideo.com/jeux/pc/00011666-nosferatu-the-wrath-of-malachi.htm (2022-09-23)
 
-=LDR  01372nx  a2200265   4500
+=LDR  01372nx  f2200265   45  
 =001  UMLRM0091
 =100  //$a202211043afrey50      ba0
 =101  0/$afre 
@@ -950,7 +950,7 @@
 =810  //$aGiant Bomb : Video game reviews, videos, forums and wiki : Nosferatu: The Wrath of Malachi (Game) - Giant Bomb (2022-11-04)$bDate et source d’inspiration de l’œuvre
 =810  //$aNosferatu : the wrath of Malachi / Idol FX AB, Pan vision. – [Clichy] : Eidos ; Boulogne-Billancourt : Mindscape, cop. 2005. – [Multimédia : électronique]
 
-=LDR  02122cx  a2200337   4500
+=LDR  02122cx  h2200337   45  
 =001  UMLRM0099
 =005  20220811.......D
 =100  //$a20220811afrey50      ba0
@@ -978,7 +978,7 @@
 =810  //$aVampirisme.com : https://www.vampirisme.com/livre/druillet-philippe-nosferatu(2022-09-18)$bRésumé
 =810  //$aNosferatu/Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte noté. Image fixe : sans médiation]. - ISBN 2-205-03763-3
 
-=LDR  00701cx  a2200217   4500
+=LDR  00701cx  h2200217   45  
 =001  UMLRM0100
 =005  20220811######.D
 =100  //$a20220811afrey50      ba0
@@ -996,7 +996,7 @@
 =801  /0$aFR$bFR-751045101$c20220811
 =810  //$aNosferatu / Philippe Druillet. - Paris ; Barcelone ; Bruxelles : Dargaud, 1988. - [Texte noté, image fixe : sans médiation] - ISBN 2-205-03763-3
 
-=LDR  03232nx  a2200529   4500
+=LDR  03232nx  f2200529   45  
 =001  UMLRM0105
 =033  //$ahttps://data.bnf.fr/ark:/12148/cb16472893n$2data.bnf.fr
 =033  //$ahttps://www.wikidata.org/wiki/Q1254472$2Wikidata
@@ -1040,7 +1040,7 @@
 =810  //$aBnF Catalogue général : http://catalogue.bnf.fr/ark:/12148/cb16472893n
 =810  //$aData.bnf.fr : https://data.bnf.fr/ark:/12148/cb16472893n (2022-09-05)
 
-=LDR  01039nx  a2200217   4500
+=LDR  01039nx  f2200217   45  
 =001  UMLRM0106
 =100  //$a20220830afrey50      ba0
 =101  0/$aeng
@@ -1058,7 +1058,7 @@
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04)$bTechniques d’enregistrement
 =810  //$aDracula has risen from the grave‎ / starring Christopher Lee, Rupert Davies ; produced by Aïda Young ; directed by Freddie Francis ; screenplay by John Elder based on the character created by Bram Stoker ; a Hammer film production. – [Burbank, Californie, États-Unis : Warner home video [éditeur] ; Paris : Warner home video France [distributeur], [1995]. – [Image animée : video]
 
-=LDR  01034nx  a2200253   4500
+=LDR  01034nx  h2200253   45  
 =001  UMLRM0111
 =005  20220920######D
 =100  //$a20220920afrey50      ba0 
@@ -1079,7 +1079,7 @@
 =801  /0$aFR$b FR-751045101$c20220920
 =810  //$aBram Stoker's Dracula : a reader's guide / William Hughes. – London ; New York : Continuum, cop. 2009. – [Texte noté : sans médiation]. – ISBN 9780826495365
 
-=LDR  00747cx  a2200205   4500
+=LDR  00747cx  h2200205   45  
 =001  UMLRM0112
 =005  20220920######.D
 =100  //$a20220920afrey50      ba0
@@ -1096,7 +1096,7 @@
 =801  /0$aFR$bFR-751045101$c20220920
 =810  //$aBram Stoker’s Dracula : a reader’s guide / Willam Hughes. – London ; New York : Continuum, cop. 2009. – [Texte noté : sans médiation]. – ISBN 9780826495365
 
-=LDR  01812cx  a2200313   4500
+=LDR  01812cx  h2200313   45  
 =001  UMLRM0114
 =005  202210171342##.D
 =033  //$ahttps://www.wikidata.org/wiki/Q1750300$2Wikidata
@@ -1122,7 +1122,7 @@
 =810  //$aWikipédia : https://en.wikipedia.org/wiki/Dracula_the_Un-dead (2022-11-08)
 =810  //$aDracula l'immortel / Dacre Stoker et Ian Holt ; traduit de l'anglais (États-Unis) par Jean-Noël Chatain. – Neuilly-sur-Seine : M. Lafon, DL 2009. – [Texte noté : sans médiation]. – ISBN 978-2-7499-1109-0
 
-=LDR  00847cx  a2200205   4500
+=LDR  00847cx  h2200205   45  
 =001  UMLRM0115
 =005  202210171342##.D
 =100  //$a20221017afrey50      ba0
@@ -1139,7 +1139,7 @@
 =801  /0$aFR$bFR-751131015$c20221017
 =810  //$aDracula l'immortel / Dacre Stoker et Ian Holt ; traduit de l'anglais (États-Unis) par Jean-Noël Chatain. – Neuilly-sur-Seine : M. Lafon, DL 2009. – [Texte noté : sans médiation]. – ISBN 978-2-7499-1109-0
 
-=LDR  01686cx  a2200313   4500
+=LDR  01686cx  h2200313   45  
 =001  UMLRM0117
 =005  202208301048##.D
 =100  //$a20220830afrey50      ba0
@@ -1165,7 +1165,7 @@
 =810  //$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4
 =810  //$ahttp://ark.bnf.fr/ark:/12148/cb42659826w
 
-=LDR  00950cx  a2200229   4500
+=LDR  00950cx  h2200229   45  
 =001  UMLRM0118
 =005  202208301048##.D
 =100  //$a20220811afrey50      ba0
@@ -1184,7 +1184,7 @@
 =810  //$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4
 =810  //$ahttp://ark.bnf.fr/ark:/12148/cb42659826w
 
-=LDR  04340cx  a2200589   4500
+=LDR  04340cx  f2200589   45  
 =001  UMLRM0120
 =005  20221004########
 =033  //$ahttps://www.wikidata.org/wiki/Q1254469$2Wikidata
@@ -1233,7 +1233,7 @@
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0112896/ (2022-11-10)
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-10)
 
-=LDR  04852cx  a2200793   4500
+=LDR  04852cx  f2200793   45  
 =001  UMLRM0121
 =005  20221004####.D
 =100  //$a20221004afrey50      ba0 
@@ -1253,7 +1253,7 @@
 =801  /0$aFR$bFR-751052119$c20221004
 =810  //$aDracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
 
-=LDR  02432nx  h2200361   4500
+=LDR  02432nx  h2200361   45  
 =001  UMLRM0126
 =005  20220921######.D
 =100  //$a20220921afrey50      ba0
@@ -1283,7 +1283,7 @@
 =810  //$aBrams Stoker’s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. – Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. – [Texte noté : sans mediation]. – ISBN 978-0-7864-3410-7
 =810  //$aCatalogue de la Bibliothèque du Congrès : https://lccn.loc.gov/2008019450$bRésumé
 
-=LDR  01026cx  a2200218   4500
+=LDR  01026cx  h2200218   45  
 =001  UMLRM0127
 =005  20220921######.D
 =100  //$a20220921afrey50      ba0
@@ -1301,7 +1301,7 @@
 =801  /0$aFR$bFR-751052119$c20220921
 =810  //$aBrams Stoker’s notes for Dracula : a facsimile edition / Bram Stoker ; annotated and transcribed by Robert Eighteen-Bisang and Elizabeth Miller. – Jefferson (N.C.) : McFarland & Company Inc. Publishers, 2008. – [Texte noté : sans mediation]. – ISBN 978-0-7864-3410-7
 
-=LDR  04596nx  a2200553   4500
+=LDR  04596nx  f2200553   45  
 =001  UMLRM0129
 =033  //$ahttps://www.wikidata.org/wiki/Q1324090
 =033  //$ahttp://viaf.org/viaf/316752046
@@ -1347,7 +1347,7 @@
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-20)
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-10-20)
 
-=LDR  01255nx  a2200241   4500
+=LDR  01255nx  f2200241   45  
 =001  UMLRM0130
 =100  //$a20221021afrey50      ba0
 =101  1/$afre$cger$ceng
@@ -1367,7 +1367,7 @@
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-20)
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-10-20)
 
-=LDR  01259cx  a2200349   4500
+=LDR  01259cx  h2200349   45  
 =001  UMLRM0132
 =005  20221005140223.0
 =100  //$a20221005afrey50      ba0
@@ -1396,7 +1396,7 @@
 =801  /0$aFR$b FR-751045101$c20221005
 =810  //$aMax Schreck : Gespenstertheater / Stefan Eickhoff. – München : Belleville, cop. 2009. – [Texte noté : sans médiation]. – ISBN 9783936298543
 
-=LDR  00753cx  a2200241   4500
+=LDR  00753cx  h2200241   45  
 =001  UMLRM0133
 =005  20221005140223.0
 =100  //$a20221005afrey50      ba0
@@ -1416,7 +1416,7 @@
 =801  /0$aFR$b FR-751045101$c20221005
 =810  //$aMax Schreck : Gespenstertheater / Stefan Eickhoff. – München : Belleville, cop. 2009. – [Texte noté : sans médiation]. – ISBN 9783936298543
 
-=LDR  04340nx  a2200517   4500
+=LDR  04340nx  f2200517   45  
 =001  UMLRM0135
 =033  //$ahttps://www.wikidata.org/wiki/Q1324090
 =100  //$a20221021afrey50      ba0
@@ -1459,7 +1459,7 @@
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-21)
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)
 
-=LDR  01315nx  a2200241   4500
+=LDR  01315nx  f2200241   45  
 =001  UMLRM0136
 =100  //$a20221021afrey50      ba0
 =101  2/$aeng$jfre
@@ -1479,7 +1479,7 @@
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-21)
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)
 
-=LDR  01546nx  a2200265   4500
+=LDR  01546nx  h2200265   45  
 =001  UMLRM0138
 =100  //$a20221025afrey50      ba0
 =102  //$aFR
@@ -1501,7 +1501,7 @@
 =801  /0$aFR$bFR-751045101$c20221025
 =810  //$a[Maquette de décor en volume pour "Nosferatu"]/ [Daniel Jeanneteau et Laure Deratte]. – [2001]. – [Image fixe : sans médiation]
 
-=LDR  00682nx  a2200181   4500
+=LDR  00682nx  h2200181   45  
 =001  UMLRM0139
 =100  //$a20221025afrey50      ba0
 =101  0/$azxx
@@ -1516,7 +1516,7 @@
 =801  /0$aFR$bFR-751045101$c20221025
 =810  //$a[Maquette de décor en volume pour "Nosferatu"]/ [Daniel Jeanneteau et Laure Deratte]. – [2001]. – [Image fixe : sans médiation]
 
-=LDR  03510cx  a2200349   4500
+=LDR  03510cx  h2200349   45  
 =001  UMLRM0141
 =005  20220913
 =029  //$aFR$b2003TOU20048
@@ -1526,7 +1526,7 @@
 =104  //$ad2003     
 =125  02$ak
 =140  //$ate$betdoc$2BnF-FonctTexMix
-=140  //$ate$bm$2UMB105pos4
+=140  //$ate$bm$2UMB105pos4-7
 =145  0/$ai
 =145  0/$ab1$bxb2e  
 =147  0/$aa
@@ -1545,7 +1545,7 @@
 =608  //$3FRBNF11933610$aThèses et écrits académiques$2rameau
 =810  //$aValls de Gomis, Estelle (1973-...), Le vampire au fil des siècles : docimasie d'un mythe. – 2003. – [Texte noté : sans mediation]
 
-=LDR  01613cx  a2200289   4500
+=LDR  01613cx  h2200289   45  
 =001  UMLRM0142
 =005  20220725.......D
 =100  //$a20060705afrey50      ba0
@@ -1569,7 +1569,7 @@
 =810  //$aMémopéra : http://www.memopera.fr (2013-03-15)
 =810  //$aJean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
 
-=LDR  01859cx  a2200337   4500
+=LDR  01859cx  h2200337   45  
 =001  UMLRM0143
 =005  20220725.......D
 =100  //$a19980911afrey50      ba0
@@ -1597,7 +1597,7 @@
 =810  //$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  //$a7 solos pour orchestre / Pascal Dusapin ; Orchestre philharmonique de Liège Wallonie Bruxelles ; Pascal Rophé. – [France] : Naïve, P 2010. – [Musique exécutée : audio]. – Naïve MO 782180
 
-=LDR  01828cx  a2200337   4500
+=LDR  01828cx  h2200337   45  
 =001  UMLRM0144
 =005  20220725.......D
 =100  //$a19980911afrey50      ba0
@@ -1625,7 +1625,7 @@
 =810  //$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  //$a7 solos pour orchestre / Pascal Dusapin ; Orchestre philharmonique de Liège Wallonie Bruxelles ; Pascal Rophé. – [France] : Naïve, P 2010. – [Musique exécutée : audio]. – Naïve MO 782180
 
-=LDR  01763cx  a2200313   4500
+=LDR  01763cx  h2200313   45  
 =001  UMLRM0145
 =005  20220725.......D
 =100  //$a19980911afrey50      ba0
@@ -1651,7 +1651,7 @@
 =810  //$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  //$aConcerto[s] / Pascal Dusapin. ; Alain Trudel, trombone ; Juliette Hurel, flûte ; Sonia Wieder-Atherton, violoncelle ; Orchestre national de Montpellier, Orchestre de Paris ; Pascal Rophé, Christophe Eschenbach, direction d’orchestre. – [France] : Naïve, [DL 2010]. – [Musique exécutée : audio]. – Naïve MO782181
 
-=LDR  01865cx  a2200313   4500
+=LDR  01865cx  h2200313   45  
 =001  UMLRM0146
 =005  20220725.......D
 =100  //$a20100819afrey50      ba0
@@ -1677,7 +1677,7 @@
 =810  //$a Oxford music online : http://www.oxfordmusiconline.com (2010-08-19)
 =810  //$aConcerto[s] / Pascal Dusapin. ; Alain Trudel, trombone ; Juliette Hurel, flûte ; Sonia Wieder-Atherton, violoncelle ; Orchestre national de Montpellier, Orchestre de Paris ; Pascal Rophé, Christophe Eschenbach, direction d’orchestre. – [France] : Naïve, [DL 2010]. – [Musique exécutée : audio]. – Naïve MO782181
 
-=LDR  02168cx  a2200349   4500
+=LDR  02168cx  f2200349   45  
 =001  UMLRM0147
 =005  20220712.......D
 =033  //$ahttps://data.bnf.fr/15078987/jean-claude_gallotta_nosferatu/
@@ -1706,7 +1706,7 @@
 =810  //$aMémopéra : http://www.memopera.fr(2013-03-15)
 =810  //$a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
 
-=LDR  01395cx  a2200241   4500
+=LDR  01395cx  f2200241   45  
 =001  UMLRM0148
 =005  20220712.......D
 =100  //$a20050513afrey50      ba0
@@ -1726,7 +1726,7 @@
 =810  //$aMémopéra : http://www.memopera.fr(2013-03-15)
 =810  //$a Jean-Claude Gallotta, Nosferatu, ballet de l'Opéra: [chorégraphie de Jean-Claude Gallotta, musiques de Pascal Dusapin] : [programme, 6 mai 2006, Opéra national de Paris, Opéra Bastille] / Opéra national de Paris. – Paris : Opéra national de Paris, copyright 2005. – [Texte noté. Image fixe : sans médiation]
 
-=LDR  01314nx  a2200277   4500
+=LDR  01314nx  h2200277   45  
 =001  UMLRM0149
 =100  //$a20221116afrey50      ba0
 =101  0/$afre
@@ -1749,7 +1749,7 @@
 =801  /0$aFR$bFR-751045101$c20221116
 =810  //$aDictionnaire des littératures vampiriques / Jacques Finné, Jean Marigny ; préface d'Alain Pozzuoli. – Dinan : Terre de brume, 2020. – [Texte noté : sans médiation] . – ISBN 978-2-84362-674-6
 
-=LDR  01098nx  a2200253   4500
+=LDR  01098nx  h2200253   45  
 =001  UMLRM0150
 =100  //$a20220927afrey50      ba0
 =101  0/$azxx
@@ -1770,7 +1770,7 @@
 =801  /0$aFR$bFR-751045101$c20220927
 =810  //$aDracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : Éditions Opta, 1968. - [Texte noté. Image fixe : sans
 
-=LDR  00672nx  a2200181   4500
+=LDR  00672nx  h2200181   45  
 =001  UMLRM0151
 =100  //$a20220927afrey50      ba0
 =101  0/$azxx
@@ -1785,7 +1785,7 @@
 =801  /0$aFR$bFR-751045101$c20220927
 =810  //$aDracula / Bram Stoker ; illustrations originales de Philippe Druillet ; introduction de Tony Faivre. - Paris : Éditions Opta, 1968. - [Texte noté, image fixe : sans médiation]
 
-=LDR  01264nx  a2200253   4500
+=LDR  01264nx  f2200253   45  
 =001  UMLRM0152
 =100  //$a20221008afrey50      ba0
 =101  0/$azxx
@@ -1806,7 +1806,7 @@
 =801  /0$aFR$bFR-751045101$c20221008
 =810  //$aDracula, l'homme de la nuit : roman traduit par Ève et Lucie Paul-Margueritte et illustré de nombreuses photographies du film "Dracula" / Brahm Stoker. – Paris : Éditions J. Tallandier, 1932. – [Texte noté. Image fixe : sans médiation]
 
-=LDR  00763nx  a2200193   4500
+=LDR  00763nx  f2200193   45  
 =001  UMLRM0153
 =100  //$a20221008afrey50      ba0
 =101  0/$azxx
@@ -1822,7 +1822,7 @@
 =801  /0$aFR$bFR-751045101$c20221008
 =810  //$aDracula, l'homme de la nuit : roman traduit par Ève et Lucie Paul-Margueritte et illustré de nombreuses photographies du film "Dracula" / Brahm Stoker. – Paris : Éditions J. Tallandier, 1932. – [Texte noté. Image fixe : sans médiation]
 
-=LDR  03422cx  a2200541   4500
+=LDR  03422cx  f2200541   45  
 =001  UMLRM0154
 =005  20220322######.D
 =033  //$ahttp://catalogue.bnf.fr/ark:/12148/cb164600587
@@ -1867,7 +1867,7 @@
 =810  //$aIMDB (Internet movie database) - https://www.imdb.com/title/tt0021814 (2022-03-22)
 =810  //$a Ciné-ressources : http://www.cineressources.net/ (2022-1009). Sous : Dracula (1930) Tod Browning$bDates de tournage
 
-=LDR  02157cx  a2200337   4500
+=LDR  02157cx  h2200337   45  
 =001  UMLRM0155
 =005  20221012######.D
 =033  //$ahttps://www.wikidata.org/wiki/Q1254421
@@ -1895,7 +1895,7 @@
 =801  //$aFR$bFR-751131015$c20221012
 =810  //$aWikipédia : https://en.wikipedia.org/wiki/Dracula_(1924_play) (2022-10-12)
 
-=LDR  01661cx  a2200289   4500
+=LDR  01661cx  h2200289   45  
 =001  UMLRM0156
 =005  20180220######.D
 =100  //$a20000209afrey50      ba0
@@ -1919,7 +1919,7 @@
 =810  //$aGrove Music Online : http://www.oxfordmusiconline.com (2017-02-20)
 =810  //$aDracula / music by Philip Glass ; performed by Kronos quartet. – London : WEA Europe ; Le Blanc-Mesnil : distrib. Warner music France, 1999. – [Musique exécutée : audio]. – Nonesuch 795842
 
-=LDR  01249nx  a2200265   4500
+=LDR  01249nx  h2200265   45  
 =001  UMLRM0157
 =100  //$a20221013afrey50      ba0
 =101  //$azxx
@@ -1941,7 +1941,7 @@
 =810  //$aDiscogs : https://www.discogs.com/release/1968807-Philip-Glass-Kronos-Quartet-Dracula (2022-1013)
 =810  //$aDracula / music by Philip Glass ; performed by Kronos quartet. – London : WEA Europe ; Le Blanc-Mesnil : distrib. Warner music France, 1999. – [Musique exécutée : audio]. – Nonesuch 795842
 
-=LDR  01638nx  a2200241   4500
+=LDR  01638nx  f2200241   45  
 =001  UMLRM0159
 =100  //$a20221013afrey50      ba0
 =101  2/$aeng$afre$aita$aspa$ager$ceng$jfre$jeng$jita$jspa$jger
@@ -1961,7 +1961,7 @@
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0021814 (2022-10-18))$bDate de publication de la version Blu-ray : September 17, 2013
 =810  //$aServin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios’ English and Spanish language “Dracula” : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/ (2022-11-13)
 
-=LDR  01206nx  a2200241   4500
+=LDR  01206nx  h2200241   45  
 =001  UMLRM0161
 =100  //$a20221031afrey50      ba0
 =101  0/$aeng
@@ -1981,7 +1981,7 @@
 =810  //$aBritish Library Main Catalog : Explore the British Library Search - Dracula / Bram Stoker ; illustrated by Tudor Humphries (bl.uk) (2022-10-31). System number: 010729537. BNB GB9809359
 =810  //$aDeakin university. Library Catalog : Dracula / Bram Stoker ; illustrated by Tudor Humphries (deakin.edu.au) (2022-10-31)
 
-=LDR  01354nx  a2200241   4500
+=LDR  01354nx  f2200241   45  
 =001  UMLRM0162
 =100  //$a20221013afrey50      ba0
 =101  0/$aspa
@@ -2001,7 +2001,7 @@
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0021815/ (2022-10-13)
 =810  //$aServin, Javier. A Tale of Two Draculas: the history, preservation, restoration and legacy of Universal Studios’ English and Spanish language “Dracula” : https://jservin85.wordpress.com/preservation-and-restoration/restoration-of-dracula/
 
-=LDR  01695nx  a2200349   4500
+=LDR  01695nx  f2200349   45  
 =001  UMLRM0163
 =100  //$a20221018afrey50      ba0
 =101  0/$aspa
@@ -2009,7 +2009,7 @@
 =104  //$ad1931     
 =125  0/$am
 =127  0/$a014400
-=140  //$aic$bfffa$2BnF-$2BnF-GenreFilm
+=140  //$aic$bfffa$2BnF-GenreFilm
 =145  0/$ab$bxa2ae 
 =147  0/$aa$eb$ha 
 =152  //$aRDA-FR
@@ -2030,7 +2030,7 @@
 =640  6/$0Date de première sortie en salle$aES$dMadrid$f#19310320#
 =640  6/$0Date de première sortie en salle$aUS$dNew
 
-=LDR  01782nx  a2200277   4500
+=LDR  01782nx  h2200277   45  
 =001  UMLRM0164
 =100  //$a20221021afrey50      ba0
 =102  //$aCA
@@ -2053,7 +2053,7 @@
 =810  //$aPepper, Kaija. How Does Mark Godden’s Dracula Dance? : http://www.markgodden.com/pdf/DraculaReview-Kaija-Pepper.pdf (2022-10-21)$bDate de création et musique utilisée
 =810  //$aEncyclopédie Canadienne : https://www.thecanadianencyclopedia.ca/fr/article/godden-mark (2022-10-21)
 
-=LDR  01615nx  a2200289   4500
+=LDR  01615nx  h2200289   45  
 =001  UMLRM0165
 =100  //$a20221021afrey50      ba0
 =102  //$aCA
@@ -2077,14 +2077,14 @@
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-10-21)
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0293113/ (2022-10-21)
 
-=LDR  01079nx  a2200265   4500
+=LDR  01079nx  f2200265   45  
 =001  UMLRM0166
 =100  //$a20221021afrey50      ba0
 =101  2/$aeng$jfre
 =102  //$aFR
 =104  //$ad2012     
 =125  00$am
-=140  //$aic$bff  $2BnF-GenreFilm
+=140  //$aic$bfi$2BnF-ImAnim
 =145  0/$ab$bxa2ae 
 =147  0/$ah$eb 
 =152  //$aRDA-FR
@@ -2099,7 +2099,7 @@
 =801  /0$aFR$bFR-751131015$c20221021
 =810  //$aGuy Maddin. – [Paris] : ED distribution [éditeur, distributeur], [DL 2012]. – [Image animée : vidéo]
 
-=LDR  01170nx  a2200265   4500
+=LDR  01170nx  f2200265   45  
 =001  UMLRM0167
 =100  //$a20221021afrey50      ba0
 =101  2/$aeng$jfre
@@ -2121,7 +2121,7 @@
 =801  /0$aFR$bFR-751131015$c20221021
 =810  //$aGuy Maddin. – [Paris]  : ED distribution [éditeur, distributeur], [DL 2012]. – [Image animée : vidéo]
 
-=LDR  01337nx  a2200265   4500
+=LDR  01337nx  h2200265   45  
 =001  UMLRM0169
 =100  //$a20221024afrey50      ba0
 =101  0/$afre
@@ -2143,7 +2143,7 @@
 =801  /0$aFR$bFR-751045101$c20221024
 =810  //$aDracula, pages tirées du journal d’une vierge, un film de Guy Maddin. – [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). – [Texte noté. Image fixe : sans médiation]
 
-=LDR  00757nx  a2200193   4500
+=LDR  00757nx  h2200193   45  
 =001  UMLRM0170
 =100  //$a20221024afrey50      ba0
 =101  0/$afre
@@ -2159,7 +2159,7 @@
 =801  /0$aFR$bFR-751045101$c20221024
 =810  //$aDracula, pages tirées du journal d’une vierge, un film de Guy Maddin. – [Paris] : ED distribution, [2003] (Aubervilliers : Imprimerie Karcher). – [Texte noté. Image fixe : sans médiation]
 
-=LDR  01068nx  a2200229   4500
+=LDR  01068nx  h2200229   45  
 =001  UMLRM0172
 =100  //$a20221005afrey50      ba0
 =101  2/$afre$ceng
@@ -2178,13 +2178,13 @@
 =801  /0$aFR$bFR-751131010$c20221005
 =810  //$aDracula / Bram Stoker ; traduction par Jacques Finné ; présentation, notes, choix des extraits et dossier par Anne Cassou-Noguès et Marie-Ande de Langenhagen. – Paris : Flammarion, 2004. – [Texte noté : sans médiation]. – ISBN 2-08-072188-7
 
-=LDR  01510nx  a2200313   4500
+=LDR  01510nx  f2200313   45  
 =001  UMLRM0174
 =100  //$a20221029afrey50      ba0
 =102  //$aFR
 =104  //$ad2013     
 =125  00$am
-=140  //$aic$bff  $2BnF-GenreFilm
+=140  //$aic$bfi$2BnF-ImAnim
 =145  0/$ab$bxa2ae 
 =147  0/$ah$eb 
 =152  //$aRDA-FR
@@ -2204,7 +2204,7 @@
 =801  /0$aFR$bFR-751131015$c20221029
 =810  //$aLes grands classiques du cinéma allemand. – [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2013]. – [Image animée : vidéo]
 
-=LDR  01561nx  a2200301   4500
+=LDR  01561nx  f2200301   45  
 =001  UMLRM0175
 =100  //$a20221029afrey50      ba0
 =101  2/$ager$afre$aeng$cger$jfre
@@ -2229,7 +2229,7 @@
 =801  /0$aFR$bFR-751131015$c20221029
 =810  //$aLes grands classiques du cinéma allemand. – [Sannois] : RDM vidéo [éditeur, distributeur], [DL 2013]. – [Image animée : vidéo]
 
-=LDR  01519nx  a2200349   4500
+=LDR  01519nx  f2200349   45  
 =001  UMLRM0180
 =100  //$a20221104afrey50      ba0
 =101  0/$aeng
@@ -2258,7 +2258,7 @@
 =801  //$aFR$bFR-751131015$c20221104
 =810  //$aWikipédia : https://fr.wikipedia.org/wiki/Dracula_(s%C3%A9rie_de_films) (2022-11-04)
 
-=LDR  01031nx  a2200217   4500
+=LDR  01031nx  f2200217   45  
 =001  UMLRM0181
 =100  //$a20221104afrey50      ba0
 =101  1/$afre$ceng 
@@ -2276,7 +2276,7 @@
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0062909 (2022-11-04)$bDate de sortie du film en France
 =810  //$aDracula et les femmes = Dracula has risen from the grave‎ / avec Christopher Lee, Rupert Davies ; [réalisation Freddie Francis] ; [scénario de John Elder d’après l’œuvre de Bram Stoker] ; [musique de James Bernard] ; une production Hammer film. – [Paris] : Warner home video France [éditeur] ; Paris : Warner home video France [distributeur], DL 1985. – [Image animée : video]
 
-=LDR  01439nx  a2200241   4500
+=LDR  01439nx  f2200241   45  
 =001  UMLRM0184
 =100  //$a20221109afrey50      ba0
 =101  2/$aeng$ager$jfre
@@ -2296,7 +2296,7 @@
 =810  //$aCiné-ressources : catalogue collectif des bibliothèques et archives de cinéma : http://www.cineressources.net (2022-11-08)
 =810  //$aIMDB (Internet movie database) : https://www.imdb.com/title/tt0189998 (2022-11-08)
 
-=LDR  02174cx  a2200349   4500
+=LDR  02174cx  h2200349   45  
 =001  UMLRM0186
 =005  202208301048##.D
 =100  //$a20220830afrey50      ba0
@@ -2325,7 +2325,7 @@
 =810  //$aDracula l'immortel. 2 / scénario, Michel Dufranne ; dessin, Piotr Kowalski ; couleurs, Svart ; d'après l'ouvrage de Dacre Stoker et Ian Holt. – [Neuilly-sur-Seine] : Michel Lafon ; [Paris] : Casterman, impr. 2012. – [Texte noté. Image fixe : sans médiation]. – ISBN 978-2-203-03785-4
 =810  //$ahttp://ark.bnf.fr/ark:/12148/cb42527702b
 
-=LDR  01597cx  a2200301   4500
+=LDR  01597cx  h2200301   45  
 =001  UMLRM0187
 =100  //$a 20221110d2009 u y0frey50 ba
 =101  1/$afre$ceng
@@ -2350,7 +2350,7 @@
 =801  /0$aFR$bBnF$c20221110
 =810  //$aDracula : texte intégral / Bram Stoker ; interprété par Philippe Hérisson, Pierre Val, Jean-Claude Rey... [et autres]. –Paris : Livraphone, DL 2009. – [Enregistrement sonore]
 
-=LDR  01306cx  a2200229   4500
+=LDR  01306cx  f2200229   45  
 =001  UMLRM0189
 =005  20221004####.D
 =100  //$a20221004afrey50      ba0 
@@ -2369,7 +2369,7 @@
 =801  /0$aFR$bFR-751052119$c20221004
 =810  //$a Dracula, mort et heureux de l'être = Dracula dead and loving it / un film de Mel Brooks ; Leslie Nielsen, Peter MacNicol, Steven Weber... [et autres], [acteurs] ; musique, Hummie Mann ; histoire de Rudy De Luca & Steve Haberman ; scénario de Mel Brooks & Rudy De Luca & Steve Haberman ; produit et réalisé par Mel Brooks. – Neuilly-sur-Seine : Gaumont vidéo [éditeur] ; Boulogne-Billancourt : Paramount home entertainment France [distributeur], 2009. – [Image animée : vidéo]. – Référence commerciale : FG 315 880 (EDV 1504)
 
-=LDR  02272nx  a2200361   4500
+=LDR  02272nx  f2200361   45  
 =001  UMLRM0191
 =100  //$a20221114afrey50      ba0
 =101  0/$aeng
@@ -2378,6 +2378,7 @@
 =125  0/$am
 =127  0/$a010000
 =140  //$ate$bthrad$2BnF-GenrLitt
+=140  //$ate$ber$2BnF-ImAnim
 =145  0/$ah$bxxxa  
 =145  0/$ad$bbxxa  
 =152  //$aRDA-FR
@@ -2399,7 +2400,7 @@
 =810  //$a Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. – Schiller park (Illinois) : Radio spirits, P 2001. – [Parole énoncée : audio]. – 7031 (Radio spirits)
 =810  //$aWikipédia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)
 
-=LDR  00977nx  a2200205   4500
+=LDR  00977nx  f2200205   45  
 =001  UMLRM0192
 =100  //$a20221114afrey50      ba0
 =101  0/$aeng
@@ -2416,14 +2417,15 @@
 =810  //$a Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. – Schiller park (Illinois) : Radio spirits, P 2001. – [Parole énoncée : audio]. – 7031 (Radio spirits)
 =810  //$aWikipédia : https://en.wikipedia.org/wiki/Dracula_(radio_drama) (2022-11-14)
 
-=LDR  01860nx  a2200289   4500
+=LDR  01860nx  f2200289   45  
 =001  UMLRM0194
 =100  //$a20221114afrey50      ba0
 =101  0/$aeng
 =102  //$aUS
 =104  //$ad1938     
 =125  0/$am
-=140  //$ate$bthrad$2BnF-$2BnF-GenreFilm
+=140  //$ate$bthrad$2BnF-GenreLitt
+=140  //$ate$bsr$2BnF-ImAnim
 =145  0/$ah$bxxxa  
 =152  //$aRDA-FR
 =154  //$axa
@@ -2440,7 +2442,7 @@
 =810  //$a Dracula : original radio adaptation as heard on the Mercury theatre on the air / starring Orson Welles ; based on the novel by Bram Stoker ; adapted for radio by Orson Welles and John Houseman ; performed by Orson Welles, Martin Gabel, George Coulouris... [et autres]. – Schiller park (Illinois) : Radio spirits, P 2001. – [Parole énoncée : audio]. – 7031 (Radio spirits)
 =810  //$aWikipédia : https://en.wikipedia.org/wiki/The_Mercury_Theatre_on_the_Air (2022-11-14)
 
-=LDR  01187nx  a2200289   4500
+=LDR  01187nx  h2200289   45  
 =001  UMLRM0195
 =100  //$a20221116afrey50      ba0
 =101  0/$afre
@@ -2464,7 +2466,7 @@
 =801  /0$aFR$bFR-751045101$c20221116
 =810  //$aBibliographie de Dracula / Jacques Finné. – Lausanne :  L’âge d'homme, cop. 1986. – [Texte noté : sans médiation]
 
-=LDR  00596nx  a2200181   4500
+=LDR  00596nx  h2200181   45  
 =001  UMLRM0196
 =100  //$a20221116afrey50      ba0
 =101  0/$afre
@@ -2479,7 +2481,7 @@
 =801  /0$aFR$b FR-751045101$c20221116
 =810  //$aBibliographie de Dracula / Jacques Finné. – Lausanne :  L’âge d'homme, cop. 1986. – [Texte noté : sans médiation]
 
-=LDR  00731nx  a2200181   4500
+=LDR  00731nx  h2200181   45  
 =001  UMLRM0198
 =100  //$a20221116afrey50      ba0
 =101  0/$afre
