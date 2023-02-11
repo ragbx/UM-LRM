@@ -8,7 +8,7 @@ Le jeu de données est divisé en quatre ensembles :
 - les items, exprimés en UNIMARC format Holdings (fichiers “UMH_Items”),
 - les autres entités liées, exprimées en UNIMARC format autorité (fichiers “UMA_Autres_Entites_Liees”).
 
-Pour chacun de ces ensembles, un dossier compressé contient les données aux formats ISO 2709 (extension ".mrc"), MARCXML (extension ".xml") et texte (extension ".mrk").
+Pour chacun de ces ensembles, un dossier compressé contient les données aux formats ISO 2709 (extension ".mrc"), MarcXchange (extension ".xml") et texte (extension ".mrk").
 
 Tous les fichiers sont encodés en UTF-8.
 

@@ -1,5 +1,8 @@
 # Change Log
 
+## [Version 1.1.1] - 2023-02-11
+- notices MARCXML converties en MarcXchange, plus adapté à UNIMARC.
+
 ## [Version 1.1.0] - 2023-01-23
 ### Ajout
 - notices au format MARCXML

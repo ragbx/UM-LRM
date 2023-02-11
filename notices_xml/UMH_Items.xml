@@ -1,2 +1,1484 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1000</marc:controlfield><marc:controlfield tag="004">UMLRM0003</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000001</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a"> fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1000</marc:subfield><marc:subfield code="m">CV0000000001</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00302na a 220010910 4500</marc:leader><marc:controlfield tag="001">UMLRM1001</marc:controlfield><marc:controlfield tag="004">UMLRM0006</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000002</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1001</marc:subfield><marc:subfield code="m">CV0000000002</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1002</marc:controlfield><marc:controlfield tag="004">UMLRM0009</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000003</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1002</marc:subfield><marc:subfield code="m">CV0000000003</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1003</marc:controlfield><marc:controlfield tag="004">UMLRM0012</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000=004</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1003</marc:subfield><marc:subfield code="m">CV0000000=004</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1004</marc:controlfield><marc:controlfield tag="004">UMLRM0015</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000005</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1004</marc:subfield><marc:subfield code="m">CV0000000005</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1005</marc:controlfield><marc:controlfield tag="004">UMLRM0018</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000006</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1005</marc:subfield><marc:subfield code="m">CV0000000006</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1006</marc:controlfield><marc:controlfield tag="004">UMLRM0021</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000007</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a"> fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1006</marc:subfield><marc:subfield code="m">CV0000000007</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1007</marc:controlfield><marc:controlfield tag="004">UMLRM0024</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000008</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0 </marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1007</marc:subfield><marc:subfield code="m">CV0000000008</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1008</marc:controlfield><marc:controlfield tag="004">UMLRM0027</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000009</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1008</marc:subfield><marc:subfield code="m">CV0000000009</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1009</marc:controlfield><marc:controlfield tag="004">UMLRM0030</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000010</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1009</marc:subfield><marc:subfield code="m">CV0000000010</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1010</marc:controlfield><marc:controlfield tag="004">UMLRM0033</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000011</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1010</marc:subfield><marc:subfield code="m">CV0000000011</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1011</marc:controlfield><marc:controlfield tag="004">UMLRM0036</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000012</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a"> fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1011</marc:subfield><marc:subfield code="m">CV0000000012</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1012</marc:controlfield><marc:controlfield tag="004">UMLRM0039</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000013</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLMR1012</marc:subfield><marc:subfield code="m">CV0000000013</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1013</marc:controlfield><marc:controlfield tag="004">UMLRM0042</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000014</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   1001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1013</marc:subfield><marc:subfield code="m">CV0000000014</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1014</marc:controlfield><marc:controlfield tag="004">UMLRM0045</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000015</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1014</marc:subfield><marc:subfield code="m">CV0000000015</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1015</marc:controlfield><marc:controlfield tag="004">UMLRM0048</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000016</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1015</marc:subfield><marc:subfield code="m">CV0000000016</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1016</marc:controlfield><marc:controlfield tag="004">UMLRM0051</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000017</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0 </marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1016</marc:subfield><marc:subfield code="m">CV0000000017</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1017</marc:controlfield><marc:controlfield tag="004">UMLRM0054</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000018</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a"> fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1017</marc:subfield><marc:subfield code="m">CV0000000018</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1018</marc:controlfield><marc:controlfield tag="004">UMLRM0057</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000019</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">LANGUES</marc:subfield><marc:subfield code="j">COTE_UMLRM1018</marc:subfield><marc:subfield code="m">CV0000000019</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1019</marc:controlfield><marc:controlfield tag="004">UMLRM0060</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000020</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1019</marc:subfield><marc:subfield code="m">CV0000000020</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1020</marc:controlfield><marc:controlfield tag="004">UMLRM0063</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000021</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1020</marc:subfield><marc:subfield code="m">CV0000000021</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1021</marc:controlfield><marc:controlfield tag="004">UMLRM0066</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000022</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">LANGUES</marc:subfield><marc:subfield code="j">Cote_UMLRM1021</marc:subfield><marc:subfield code="m">CV0000000022</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1022</marc:controlfield><marc:controlfield tag="004">UMLRM0069</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000023</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1022</marc:subfield><marc:subfield code="m">CV0000000023</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1023</marc:controlfield><marc:controlfield tag="004">UMLRM0072</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000024</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1023</marc:subfield><marc:subfield code="m">CV0000000024</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1024</marc:controlfield><marc:controlfield tag="004">UMLRM0077</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000025</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0 </marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1024</marc:subfield><marc:subfield code="m">CV0000000025</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1025</marc:controlfield><marc:controlfield tag="004">UMLRM0080</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000026</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1025</marc:subfield><marc:subfield code="m">CV0000000026</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1026</marc:controlfield><marc:controlfield tag="004">UMLRM0083</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000027</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1026</marc:subfield><marc:subfield code="m">CV0000000027</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1027</marc:controlfield><marc:controlfield tag="004">UMLRM0086</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000028</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1027</marc:subfield><marc:subfield code="m">CV0000000028</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1028</marc:controlfield><marc:controlfield tag="004">UMLRM0089</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000029</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1028</marc:subfield><marc:subfield code="m">CV0000000029</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00331na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1029</marc:controlfield><marc:controlfield tag="004">UMLRM0092</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000030</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b"> MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1029</marc:subfield><marc:subfield code="m">CV0000000030</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1030</marc:controlfield><marc:controlfield tag="004">UMLRM0095</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000031</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1030</marc:subfield><marc:subfield code="m">CV0000000031</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1032</marc:controlfield><marc:controlfield tag="004">UMLRM0101</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000033</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1032</marc:subfield><marc:subfield code="m">CV0000000033</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1033</marc:controlfield><marc:controlfield tag="004">UMLRM0104</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000034</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1033</marc:subfield><marc:subfield code="m">CV0000000034</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1034</marc:controlfield><marc:controlfield tag="004">UMLRM0107</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000035</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1034</marc:subfield><marc:subfield code="m">CV0000000035</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1035</marc:controlfield><marc:controlfield tag="004">UMLRM0110</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000036</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1035</marc:subfield><marc:subfield code="m">CV0000000036</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1036</marc:controlfield><marc:controlfield tag="004">UMLRM0113</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000037</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1036</marc:subfield><marc:subfield code="m">CV0000000037</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1037</marc:controlfield><marc:controlfield tag="004">UMLRM0116</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000038</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1038</marc:subfield><marc:subfield code="m">CV0000000038</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1038</marc:controlfield><marc:controlfield tag="004">UMLRM0119</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000039</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1038</marc:subfield><marc:subfield code="m">CV0000000039</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1039</marc:controlfield><marc:controlfield tag="004">UMLRM0122</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000040</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1039</marc:subfield><marc:subfield code="m">CV0000000040</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1041</marc:controlfield><marc:controlfield tag="004">UMLRM0128</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000042</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">LANGUES</marc:subfield><marc:subfield code="j">COTE_UMLRM1041</marc:subfield><marc:subfield code="m">CV0000000042</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1042</marc:controlfield><marc:controlfield tag="004">UMLRM0131</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000043</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1042</marc:subfield><marc:subfield code="m">CV0000000043</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1043</marc:controlfield><marc:controlfield tag="004">UMLRM0134</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_000000=0044</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fb   x001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1043</marc:subfield><marc:subfield code="m">CV0000000044</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1044</marc:controlfield><marc:controlfield tag="004">UMLRM0137</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_000000=0045</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1044</marc:subfield><marc:subfield code="m">CV0000000045</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1045</marc:controlfield><marc:controlfield tag="004">UMLRM0137</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_000000=0046</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1045</marc:subfield><marc:subfield code="m">CV0000000046</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1046</marc:controlfield><marc:controlfield tag="004">UMLRM0158</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_000000=0047</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1046</marc:subfield><marc:subfield code="m">CV0000000047</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00330na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1047</marc:controlfield><marc:controlfield tag="004">UMLRM0160</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_000000=0048</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1047</marc:subfield><marc:subfield code="m">CV0000000048</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00331na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1048</marc:controlfield><marc:controlfield tag="004">UMLRM0168</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_000000=0049</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a"> fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1048</marc:subfield><marc:subfield code="m">CV0000000049</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00329na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1049</marc:controlfield><marc:controlfield tag="004">UMLRM0171</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000050</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">MEZZANINE</marc:subfield><marc:subfield code="j">COTE_UMLRM1049</marc:subfield><marc:subfield code="m">CV0000000050</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00328na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1050</marc:controlfield><marc:controlfield tag="004">UMLRM0173</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000051</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">JEUNESSE</marc:subfield><marc:subfield code="j">COTE_UMLRM1050</marc:subfield><marc:subfield code="m">CV0000000051</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1051</marc:controlfield><marc:controlfield tag="004">UMLRM0185</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000052</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1051</marc:subfield><marc:subfield code="m">CV0000000052</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1052</marc:controlfield><marc:controlfield tag="004">UMLRM0188</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000053</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1052</marc:subfield><marc:subfield code="m">CV0000000053</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1053</marc:controlfield><marc:controlfield tag="004">UMLRM0190</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000054</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1053</marc:subfield><marc:subfield code="m">CV0000000054</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1054</marc:controlfield><marc:controlfield tag="004">UMLRM0193</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000055</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1054</marc:subfield><marc:subfield code="m">CV0000000055</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1055</marc:controlfield><marc:controlfield tag="004">UMLRM0197</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000056</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1055</marc:subfield><marc:subfield code="m">CV0000000056</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record><marc:record><marc:leader>00327na a 220012110 4500</marc:leader><marc:controlfield tag="001">UMLRM1056</marc:controlfield><marc:controlfield tag="004">UMLRM0199</marc:controlfield><marc:datafield tag="070" ind1=" " ind2=" "><marc:subfield code="a">CEL_0000000057</marc:subfield></marc:datafield><marc:datafield tag="100" ind1=" " ind2=" "><marc:subfield code="a">20221024frey01      ba0</marc:subfield></marc:datafield><marc:datafield tag="170" ind1=" " ind2=" "><marc:subfield code="a">aa         </marc:subfield></marc:datafield><marc:datafield tag="171" ind1=" " ind2=" "><marc:subfield code="a">fbxxx001</marc:subfield></marc:datafield><marc:datafield tag="252" ind1=" " ind2=" "><marc:subfield code="a">BM_CELESTEVILLE</marc:subfield><marc:subfield code="b">ADULTES</marc:subfield><marc:subfield code="j">COTE_UMLRM1056</marc:subfield><marc:subfield code="m">CV0000000057</marc:subfield></marc:datafield><marc:datafield tag="801" ind1="0" ind2=" "><marc:subfield code="a">FR</marc:subfield><marc:subfield code="b">Bibliothèque municipale de Célesteville</marc:subfield></marc:datafield></marc:record></marc:collection>
+<collection xmlns="info:lc/xmlns/marcxchange-v1">
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1000</controlfield>
+  <controlfield tag="004">UMLRM0003</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000001</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a"> fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1000</subfield>
+    <subfield code="m">CV0000000001</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00302na a 220010910 4500</leader>
+  <controlfield tag="001">UMLRM1001</controlfield>
+  <controlfield tag="004">UMLRM0006</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000002</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1001</subfield>
+    <subfield code="m">CV0000000002</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1002</controlfield>
+  <controlfield tag="004">UMLRM0009</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000003</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1002</subfield>
+    <subfield code="m">CV0000000003</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1003</controlfield>
+  <controlfield tag="004">UMLRM0012</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000=004</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1003</subfield>
+    <subfield code="m">CV0000000=004</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1004</controlfield>
+  <controlfield tag="004">UMLRM0015</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000005</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1004</subfield>
+    <subfield code="m">CV0000000005</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1005</controlfield>
+  <controlfield tag="004">UMLRM0018</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000006</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1005</subfield>
+    <subfield code="m">CV0000000006</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1006</controlfield>
+  <controlfield tag="004">UMLRM0021</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000007</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a"> fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1006</subfield>
+    <subfield code="m">CV0000000007</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1007</controlfield>
+  <controlfield tag="004">UMLRM0024</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000008</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0 </subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1007</subfield>
+    <subfield code="m">CV0000000008</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1008</controlfield>
+  <controlfield tag="004">UMLRM0027</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000009</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1008</subfield>
+    <subfield code="m">CV0000000009</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1009</controlfield>
+  <controlfield tag="004">UMLRM0030</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000010</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1009</subfield>
+    <subfield code="m">CV0000000010</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1010</controlfield>
+  <controlfield tag="004">UMLRM0033</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000011</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1010</subfield>
+    <subfield code="m">CV0000000011</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1011</controlfield>
+  <controlfield tag="004">UMLRM0036</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000012</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a"> fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1011</subfield>
+    <subfield code="m">CV0000000012</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1012</controlfield>
+  <controlfield tag="004">UMLRM0039</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000013</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLMR1012</subfield>
+    <subfield code="m">CV0000000013</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1013</controlfield>
+  <controlfield tag="004">UMLRM0042</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000014</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   1001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1013</subfield>
+    <subfield code="m">CV0000000014</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1014</controlfield>
+  <controlfield tag="004">UMLRM0045</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000015</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1014</subfield>
+    <subfield code="m">CV0000000015</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1015</controlfield>
+  <controlfield tag="004">UMLRM0048</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000016</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1015</subfield>
+    <subfield code="m">CV0000000016</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1016</controlfield>
+  <controlfield tag="004">UMLRM0051</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000017</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0 </subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1016</subfield>
+    <subfield code="m">CV0000000017</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1017</controlfield>
+  <controlfield tag="004">UMLRM0054</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000018</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a"> fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1017</subfield>
+    <subfield code="m">CV0000000018</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1018</controlfield>
+  <controlfield tag="004">UMLRM0057</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000019</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">LANGUES</subfield>
+    <subfield code="j">COTE_UMLRM1018</subfield>
+    <subfield code="m">CV0000000019</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1019</controlfield>
+  <controlfield tag="004">UMLRM0060</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000020</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1019</subfield>
+    <subfield code="m">CV0000000020</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1020</controlfield>
+  <controlfield tag="004">UMLRM0063</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000021</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1020</subfield>
+    <subfield code="m">CV0000000021</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1021</controlfield>
+  <controlfield tag="004">UMLRM0066</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000022</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">LANGUES</subfield>
+    <subfield code="j">Cote_UMLRM1021</subfield>
+    <subfield code="m">CV0000000022</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1022</controlfield>
+  <controlfield tag="004">UMLRM0069</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000023</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1022</subfield>
+    <subfield code="m">CV0000000023</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1023</controlfield>
+  <controlfield tag="004">UMLRM0072</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000024</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1023</subfield>
+    <subfield code="m">CV0000000024</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1024</controlfield>
+  <controlfield tag="004">UMLRM0077</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000025</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0 </subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1024</subfield>
+    <subfield code="m">CV0000000025</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1025</controlfield>
+  <controlfield tag="004">UMLRM0080</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000026</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1025</subfield>
+    <subfield code="m">CV0000000026</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1026</controlfield>
+  <controlfield tag="004">UMLRM0083</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000027</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1026</subfield>
+    <subfield code="m">CV0000000027</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1027</controlfield>
+  <controlfield tag="004">UMLRM0086</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000028</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1027</subfield>
+    <subfield code="m">CV0000000028</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1028</controlfield>
+  <controlfield tag="004">UMLRM0089</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000029</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1028</subfield>
+    <subfield code="m">CV0000000029</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00331na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1029</controlfield>
+  <controlfield tag="004">UMLRM0092</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000030</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b"> MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1029</subfield>
+    <subfield code="m">CV0000000030</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1030</controlfield>
+  <controlfield tag="004">UMLRM0095</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000031</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1030</subfield>
+    <subfield code="m">CV0000000031</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1032</controlfield>
+  <controlfield tag="004">UMLRM0101</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000033</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1032</subfield>
+    <subfield code="m">CV0000000033</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1033</controlfield>
+  <controlfield tag="004">UMLRM0104</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000034</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1033</subfield>
+    <subfield code="m">CV0000000034</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1034</controlfield>
+  <controlfield tag="004">UMLRM0107</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000035</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1034</subfield>
+    <subfield code="m">CV0000000035</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1035</controlfield>
+  <controlfield tag="004">UMLRM0110</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000036</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1035</subfield>
+    <subfield code="m">CV0000000036</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1036</controlfield>
+  <controlfield tag="004">UMLRM0113</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000037</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1036</subfield>
+    <subfield code="m">CV0000000037</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1037</controlfield>
+  <controlfield tag="004">UMLRM0116</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000038</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1038</subfield>
+    <subfield code="m">CV0000000038</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1038</controlfield>
+  <controlfield tag="004">UMLRM0119</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000039</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1038</subfield>
+    <subfield code="m">CV0000000039</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1039</controlfield>
+  <controlfield tag="004">UMLRM0122</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000040</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1039</subfield>
+    <subfield code="m">CV0000000040</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1041</controlfield>
+  <controlfield tag="004">UMLRM0128</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000042</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">LANGUES</subfield>
+    <subfield code="j">COTE_UMLRM1041</subfield>
+    <subfield code="m">CV0000000042</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1042</controlfield>
+  <controlfield tag="004">UMLRM0131</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000043</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1042</subfield>
+    <subfield code="m">CV0000000043</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1043</controlfield>
+  <controlfield tag="004">UMLRM0134</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_000000=0044</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fb   x001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1043</subfield>
+    <subfield code="m">CV0000000044</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1044</controlfield>
+  <controlfield tag="004">UMLRM0137</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_000000=0045</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1044</subfield>
+    <subfield code="m">CV0000000045</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1045</controlfield>
+  <controlfield tag="004">UMLRM0137</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_000000=0046</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1045</subfield>
+    <subfield code="m">CV0000000046</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1046</controlfield>
+  <controlfield tag="004">UMLRM0158</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_000000=0047</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1046</subfield>
+    <subfield code="m">CV0000000047</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00330na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1047</controlfield>
+  <controlfield tag="004">UMLRM0160</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_000000=0048</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1047</subfield>
+    <subfield code="m">CV0000000048</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00331na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1048</controlfield>
+  <controlfield tag="004">UMLRM0168</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_000000=0049</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a"> fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1048</subfield>
+    <subfield code="m">CV0000000049</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00329na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1049</controlfield>
+  <controlfield tag="004">UMLRM0171</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000050</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">MEZZANINE</subfield>
+    <subfield code="j">COTE_UMLRM1049</subfield>
+    <subfield code="m">CV0000000050</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00328na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1050</controlfield>
+  <controlfield tag="004">UMLRM0173</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000051</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">JEUNESSE</subfield>
+    <subfield code="j">COTE_UMLRM1050</subfield>
+    <subfield code="m">CV0000000051</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1051</controlfield>
+  <controlfield tag="004">UMLRM0185</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000052</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1051</subfield>
+    <subfield code="m">CV0000000052</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1052</controlfield>
+  <controlfield tag="004">UMLRM0188</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000053</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1052</subfield>
+    <subfield code="m">CV0000000053</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1053</controlfield>
+  <controlfield tag="004">UMLRM0190</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000054</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1053</subfield>
+    <subfield code="m">CV0000000054</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1054</controlfield>
+  <controlfield tag="004">UMLRM0193</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000055</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1054</subfield>
+    <subfield code="m">CV0000000055</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1055</controlfield>
+  <controlfield tag="004">UMLRM0197</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000056</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1055</subfield>
+    <subfield code="m">CV0000000056</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+<record format="UNIMARC" type="Holdings">
+  <leader>00327na a 220012110 4500</leader>
+  <controlfield tag="001">UMLRM1056</controlfield>
+  <controlfield tag="004">UMLRM0199</controlfield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">CEL_0000000057</subfield>
+  </datafield>
+  <datafield tag="100" ind1=" " ind2=" ">
+    <subfield code="a">20221024frey01      ba0</subfield>
+  </datafield>
+  <datafield tag="170" ind1=" " ind2=" ">
+    <subfield code="a">aa         </subfield>
+  </datafield>
+  <datafield tag="171" ind1=" " ind2=" ">
+    <subfield code="a">fbxxx001</subfield>
+  </datafield>
+  <datafield tag="252" ind1=" " ind2=" ">
+    <subfield code="a">BM_CELESTEVILLE</subfield>
+    <subfield code="b">ADULTES</subfield>
+    <subfield code="j">COTE_UMLRM1056</subfield>
+    <subfield code="m">CV0000000057</subfield>
+  </datafield>
+  <datafield tag="801" ind1="0" ind2=" ">
+    <subfield code="a">FR</subfield>
+    <subfield code="b">Bibliothèque municipale de Célesteville</subfield>
+  </datafield>
+</record>
+</collection>
