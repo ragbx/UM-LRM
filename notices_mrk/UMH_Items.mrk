@@ -1,0 +1,570 @@
+=LDR  00329na aa220012110 450 
+=001  UMLRM1000
+=004  UMLRM0003
+=070  \\$aCEL_0000000001
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$a fb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1000$mCV0000000001
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00326na aa220012110 450 
+=001  UMLRM1001
+=004  UMLRM0006
+=070  \\$aCEL_0000000002
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\fb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1001$mCV0000000002
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1002
+=004  UMLRM0009
+=070  \\$aCEL_0000000003
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1002$mCV0000000003
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1003
+=004  UMLRM0012
+=070  \\$aCEL_0000000=004
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1003$mCV0000000=004
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1004
+=004  UMLRM0015
+=070  \\$aCEL_0000000005
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1=004$mCV0000000005
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1005
+=004  UMLRM0018
+=070  \\$aCEL_0000000006
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1005$mCV0000000006
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1006
+=004  UMLRM0021
+=070  \\$aCEL_0000000007
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$a fbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1006$mCV0000000007
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1007
+=004  UMLRM0024
+=070  \\$aCEL_0000000008 
+=100  \\$a20221024frey01      ba0 
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1007$mCV0000000008
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1008
+=004  UMLRM0027
+=070  \\$aCEL_0000000009 
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1008$mCV0000000009
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1009
+=004  UMLRM0030
+=070  \\$aCEL_0000000010
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1009$mCV0000000010
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1010
+=004  UMLRM0033
+=070  \\$aCEL_0000000011
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$j COTE_UMLRM1010$mCV0000000011
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1011
+=004  UMLRM0036
+=070  \\$aCEL_0000000012
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$a fb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1011$mCV0000000012
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1012
+=004  UMLRM0039
+=070  \\$aCEL_0000000013
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLMR1012$mCV0000000013
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1013
+=004  UMLRM0042
+=070  \\$aCEL_0000000014
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   1001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1013$mCV0000000014
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1014
+=004  UMLRM0045
+=070  \\$aCEL_0000000015
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1014$mCV0000000015
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1015
+=004  UMLRM0048
+=070  \\$aCEL_0000000016
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1015$mCV0000000016
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1016
+=004  UMLRM0051
+=070  \\$aCEL_0000000017 
+=100  \\$a20221024frey01      ba0 
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1016$mCV0000000017
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1017
+=004  UMLRM0054
+=070  \\$aCEL_0000000018
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$a fb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1017$mCV0000000018
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1018
+=004  UMLRM0057
+=070  \\$aCEL_0000000019
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bLANGUES$jCOTE_UMLRM1018$mCV0000000019
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1019
+=004  UMLRM0060
+=070  \\$aCEL_0000000020
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1019$mCV0000000020
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1020
+=004  UMLRM0063
+=070  \\$aCEL_0000000021
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1020$mCV0000000021
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1021
+=004  UMLRM0066
+=070  \\$aCEL_0000000022
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bLANGUES$jCote_UMLRM1021$mCV0000000022
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1022
+=004  UMLRM0069
+=070  \\$aCEL_0000000023
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1022$mCV0000000023
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1023
+=004  UMLRM0072
+=070  \\$aCEL_0000000024
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1023$mCV0000000024
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1024
+=004  UMLRM0077
+=070  \\$aCEL_0000000025
+=100  \\$a20221024frey01      ba0 
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1024$mCV0000000025
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1025
+=004  UMLRM0080
+=070  \\$aCEL_0000000026
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1025$mCV0000000026
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1026
+=004  UMLRM0083
+=070  \\$aCEL_0000000027
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1026$mCV0000000027
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1027
+=004  UMLRM0086
+=070  \\$aCEL_0000000028
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1027 $mCV0000000028
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1028
+=004  UMLRM0089
+=070  \\$aCEL_0000000029
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1028$mCV0000000029
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00332na aa220012110 450 
+=001  UMLRM1029
+=004  UMLRM0092
+=070  \\$aCEL_0000000030
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$b MEZZANINE$j COTE_UMLRM1029$mCV0000000030
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1030
+=004  UMLRM0095
+=070  \\$aCEL_0000000031
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1030$mCV0000000031
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1031
+=004  UMLRM0098
+=070  \\$aCEL_0000000032
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1031$mCV0000000032
+=801  0\$aFR$bBibliothèque municipale de Célestevill"
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1032
+=004  UMLRM0101
+=070  \\$aCEL_0000000033
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1032$mCV0000000033
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1033
+=004  UMLRM0104
+=070  \\$aCEL_0000000034
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1033$mCV0000000034
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1034
+=004  UMLRM0107
+=070  \\$aCEL_0000000035
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1034$mCV0000000035
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1035
+=004  UMLRM0110
+=070  \\$aCEL_0000000036
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1035$mCV0000000036
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1036
+=004  UMLRM0113
+=070  \\$aCEL_0000000037
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1036$mCV0000000037
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00327na aa220012110 450 
+=001  UMLRM1037
+=004  UMLRM0116
+=070  \\$aCEL_0000000038
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1038$mCV0000000038
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1038
+=004  UMLRM0119
+=070  \\$aCEL_0000000039
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1038$mCV0000000039
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1039
+=004  UMLRM0122
+=070  \\$aCEL_0000000040
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1039$mCV0000000040
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1040
+=004  UMLRM0125
+=070  \\$aCEL_0000000041
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1040$mCV0000000041
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00327na aa220012110 450 
+=001  UMLRM1041
+=004  UMLRM0128
+=070  \\$aCEL_0000000042
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bLANGUES$jCOTE_UMLRM1041$mCV0000000042
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1042
+=004  UMLRM0131
+=070  \\$aCEL_0000000043
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1042$mCV0000000043
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1043
+=004  UMLRM0134
+=070  \\$aCEL_000000=0044
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afb   x001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1043$mCV0000000044
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1044
+=004  UMLRM0137
+=070  \\$aCEL_000000=0045
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1044$mCV0000000045
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1045
+=004  UMLRM0137
+=070  \\$aCEL_000000=0046
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1045$mCV0000000046
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1046
+=004  UMLRM0158
+=070  \\$aCEL_000000=0047
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1046$mCV0000000047
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00330na aa220012110 450 
+=001  UMLRM1047
+=004  UMLRM0160
+=070  \\$aCEL_000000=0048
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1047$mCV0000000048
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00331na aa220012110 450 
+=001  UMLRM1048
+=004  UMLRM0168
+=070  \\$aCEL_000000=0049
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$a fbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1048$mCV0000000049
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00329na aa220012110 450 
+=001  UMLRM1049
+=004  UMLRM0171
+=070  \\$aCEL_0000000050
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bMEZZANINE$jCOTE_UMLRM1049$mCV0000000050
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1050
+=004  UMLRM0173
+=070  \\$aCEL_0000000051
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bJEUNESSE$jCOTE_UMLRM1050$mCV0000000051
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00327na aa220012110 450 
+=001  UMLRM1051
+=004  UMLRM0185
+=070  \\$aCEL_0000000052
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1051$mCV0000000052
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00327na aa220012110 450 
+=001  UMLRM1052
+=004  UMLRM0188
+=070  \\$aCEL_0000000053
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1052$mCV0000000053
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00327na aa220012110 450 
+=001  UMLRM1053
+=004  UMLRM0190
+=070  \\$aCEL_0000000054
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1053$mCV0000000054
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1054
+=004  UMLRM0193
+=070  \\$aCEL_0000000055 
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1054$mCV0000000055
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00327na aa220012110 450 
+=001  UMLRM1055
+=004  UMLRM0197
+=070  \\$aCEL_0000000056
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1055$mCV0000000056
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
+=LDR  00328na aa220012110 450 
+=001  UMLRM1056
+=004  UMLRM0199
+=070  \\$aCEL_0000000057 
+=100  \\$a20221024frey01      ba0
+=170  \\$aaa         
+=171  \\$afbxxx001
+=252  \\$aBM_CELESTEVILLE$bADULTES$jCOTE_UMLRM1056$mCV0000000057
+=801  0\$aFR$bBibliothèque municipale de Célesteville
+
